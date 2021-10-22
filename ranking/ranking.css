@@ -13,3 +13,16 @@ th {
     border-color: white !important;
     font-weight: bold !important;
 }
+
+.lightblue{
+    background-color: #322EA6 !important; cursor: pointer;
+    border-radius: 10px;
+  }
+
+  button.blue:hover{
+    background-color: #4a44ff !important;
+}
+
+.blue{
+    padding: 10px !important;
+}
