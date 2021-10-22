@@ -16,3 +16,7 @@ strong{
 p{
     white-space: pre-line;
 }
+
+.tamanho-titulos{
+    font-size: 25px;
+}

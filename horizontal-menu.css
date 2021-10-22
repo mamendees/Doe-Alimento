@@ -4,11 +4,11 @@
 	font-family: sans-serif;
 }
 #mainMenu li {
-	display:block;
-	width:120px;
-	float:left;
-	margin-left:2px;
-	border:1px solid #000;
+	display: block;
+	width: 130px;
+	float: left;
+	margin-left: 2px;
+	padding: 0 5px;
 }
 
 #mainMenu a {
@@ -16,16 +16,16 @@
 	padding:3px;
 	text-decoration:none;
 	background-color:#fff;
-	color:#009;
+	color:#322EA6;
 }
 
 #mainMenu a.link-active {
-	background-color:#009;
+	background-color:#322EA6;
 	color:#fff;
 }
 
 #mainMenu a:hover {
-	background-color:#009;
+	background-color:#322EA6;
 	color:#fff;
 }
 

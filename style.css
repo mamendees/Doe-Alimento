@@ -72,8 +72,10 @@ body {
     padding: 30px;
     text-align: center;
     font-size: 1.4em;
-    background-color: #690;
+    background-color: #369;
     color: white;
+    clear: both;
+    margin-top: 10px !important;
   }
   
   h1 {
@@ -125,7 +127,7 @@ div.box{
   margin: 10px;
   border-radius: 5px;
   display: inline-block;
-  background-color: lightslategray;
+  background-color: lightblue;
   font-size: xx-large;
   
 }
@@ -246,4 +248,8 @@ button.green:hover{
 
 button.blue:hover{
     background-color: #1d0ee2;
+}
+
+.aling-bottom{
+  margin-bottom: 50px;
 }

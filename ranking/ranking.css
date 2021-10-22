@@ -5,10 +5,11 @@ td, th{
 }
 
 table{
-      width: 50%;
+      width: 65%;
 }
 
 th {
     background: lightblue !important;
     border-color: white !important;
+    font-weight: bold !important;
 }
