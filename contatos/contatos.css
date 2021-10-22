@@ -1,0 +1,14 @@
+.clear-section{
+    clear: both;
+}
+img{
+    float: left;
+}
+.paragrafo-article{
+    margin-top: 40px;
+    float: left;
+}
+
+.texto-redes-sociais{
+    margin: 10px !important;
+}
