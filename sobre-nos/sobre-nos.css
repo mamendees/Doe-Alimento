@@ -1,0 +1,18 @@
+.clear-section{
+    clear: both;
+}
+img{
+    float: left;
+}
+.paragrafo-article{
+    margin-top: 40px;
+    float: left;
+}
+
+strong{
+    font-weight: bolder !important;
+}
+
+p{
+    white-space: pre-line;
+}
